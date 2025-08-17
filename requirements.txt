@@ -1,16 +1,6 @@
-Welcome to MINDMESHAPP , an AI mesher to help ease the process of meshing
-the requirements to run this code are as follows:
-Please install these libraries first,as the python code needs these to work
 pandas
 numpy
-sklearn.model_selection,train_test_split
-sklearn.feature_extraction.text,TfidfVectorizer
-sklearn.multioutput,MultiOutputClassifier
-sklearn.ensemble,RandomForestClassifier
-sklearn.pipeline,Pipeline
-matplotlib.pyplot as plt
-streamlit 
-re
+scikit-learn
+matplotlib
+streamlit
 joblib
-
-Along with this the model is trained on an user based prompt dataset attached in this repository, download it and use it to train the model, or modify it to improve the model
