@@ -1,0 +1,251 @@
+Prompt,Geom,Length (mm),Bias Type
+Create a basic flat plate mesh (600 mm) with high density near the wall.,flat_plate,600,wall_high
+"BFS mesh requested: 750 mm long, high density near the wall.",bfs,750,wall_high
+"BFS mesh requested: unspecified long, high resolution at the step.",bfs,unspecified,step_high
+I need a flat plate mesh about 2000 mm. High density near the wall.,flat_plate,2000,wall_high
+Generate BFS mesh (5 mm) and apply high resolution at the step.,bfs,5,step_high
+"Generate a mesh for a flat plate of 1500 mm, ensure high resolution at the step.",flat_plate,1500,step_high
+"BFS mesh requested: 750 mm long, high resolution at the step.",bfs,750,step_high
+Create a basic flat plate mesh (1500 mm) with no bias required.,flat_plate,1500,none
+Generate BFS mesh (300 mm) and apply no bias required.,bfs,300,none
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 5 mm).",bfs,5,step_high
+Create a basic flat plate mesh (2000 mm) with no bias required.,flat_plate,2000,none
+Need a BFS mesh of 200 mm; high density near the wall regions preferred.,bfs,200,wall_high
+Create a basic flat plate mesh (100 mm) with high resolution at the step.,flat_plate,100,step_high
+"Please create a mesh for backward-facing step, no bias required; domain length 2500 mm.",bfs,2500,none
+"BFS mesh requested: 200 mm long, high resolution at the step.",bfs,200,step_high
+"BFS mesh requested: 25 mm long, high density near the wall.",bfs,25,wall_high
+"Requesting flat plate mesh: 150 mm long, high density near the wall.",flat_plate,150,wall_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 25 mm.",bfs,25,step_high
+Generate BFS mesh (75 mm) and apply high density near the wall.,bfs,75,wall_high
+"BFS mesh requested: 4000 mm long, no bias required.",bfs,4000,none
+Generate BFS mesh (1800 mm) and apply high resolution at the step.,bfs,1800,step_high
+"Please create a mesh for backward-facing step, high density near the wall; domain length 150 mm.",bfs,150,wall_high
+Please mesh a flat plate; length 1800 mm. Priority: high resolution at the step.,flat_plate,1800,step_high
+"Requesting flat plate mesh: unspecified long, high resolution at the step.",flat_plate,unspecified,step_high
+Create a basic flat plate mesh (750 mm) with high resolution at the step.,flat_plate,750,step_high
+Create a basic flat plate mesh (900 mm) with high resolution at the step.,flat_plate,900,step_high
+Please mesh a flat plate; length 25 mm. Priority: high resolution at the step.,flat_plate,25,step_high
+Generate BFS mesh (25 mm) and apply no bias required.,bfs,25,none
+Need a BFS mesh of 4500 mm; high density near the wall regions preferred.,bfs,4500,wall_high
+Please mesh a flat plate; length 100 mm. Priority: no bias required.,flat_plate,100,none
+I need a flat plate mesh about 750 mm. High resolution at the step.,flat_plate,750,step_high
+Generate BFS mesh (unspecified) and apply no bias required.,bfs,unspecified,none
+Please mesh a flat plate; length 150 mm. Priority: no bias required.,flat_plate,150,none
+Need a BFS mesh of 1200 mm; high resolution at the step regions preferred.,bfs,1200,step_high
+Please mesh a flat plate; length 400 mm. Priority: no bias required.,flat_plate,400,none
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 900 mm.",bfs,900,step_high
+I need a flat plate mesh about 3000 mm. High density near the wall.,flat_plate,3000,wall_high
+"Generate a mesh for a flat plate of unspecified, ensure no bias required.",flat_plate,unspecified,none
+Generate BFS mesh (2000 mm) and apply high density near the wall.,bfs,2000,wall_high
+I need a flat plate mesh about 500 mm. High density near the wall.,flat_plate,500,wall_high
+Generate BFS mesh (1800 mm) and apply high density near the wall.,bfs,1800,wall_high
+"Requesting flat plate mesh: 2500 mm long, high density near the wall.",flat_plate,2500,wall_high
+"Requesting flat plate mesh: 1500 mm long, high resolution at the step.",flat_plate,1500,step_high
+"Generate a mesh for a flat plate of 4000 mm, ensure high resolution at the step.",flat_plate,4000,step_high
+"Generate a mesh for a flat plate of 150 mm, ensure no bias required.",flat_plate,150,none
+Please mesh a flat plate; length 4500 mm. Priority: high density near the wall.,flat_plate,4500,wall_high
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 600 mm).",bfs,600,step_high
+"Requesting flat plate mesh: 200 mm long, high density near the wall.",flat_plate,200,wall_high
+Need a BFS mesh of 2500 mm; high resolution at the step regions preferred.,bfs,2500,step_high
+I need a flat plate mesh about 150 mm. High resolution at the step.,flat_plate,150,step_high
+Need a BFS mesh of 750 mm; high density near the wall regions preferred.,bfs,750,wall_high
+"Requesting flat plate mesh: 750 mm long, high resolution at the step.",flat_plate,750,step_high
+"Generate a mesh for a flat plate of 75 mm, ensure no bias required.",flat_plate,75,none
+I need a flat plate mesh about 1800 mm. High resolution at the step.,flat_plate,1800,step_high
+Need a BFS mesh of 600 mm; no bias required regions preferred.,bfs,600,none
+"Generate a mesh for a flat plate of 2500 mm, ensure high resolution at the step.",flat_plate,2500,step_high
+Generate BFS mesh (900 mm) and apply no bias required.,bfs,900,none
+"Mesh a backward-facing step geometry, no bias required at the step (length 750 mm).",bfs,750,none
+Please mesh a flat plate; length 100 mm. Priority: high density near the wall.,flat_plate,100,wall_high
+I need a flat plate mesh about 500 mm. No bias required.,flat_plate,500,none
+"BFS mesh requested: 100 mm long, high resolution at the step.",bfs,100,step_high
+"Mesh a backward-facing step geometry, no bias required at the step (length 1500 mm).",bfs,1500,none
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 2000 mm.",bfs,2000,step_high
+I need a flat plate mesh about 5 mm. No bias required.,flat_plate,5,none
+"Generate a mesh for a flat plate of 5000 mm, ensure high density near the wall.",flat_plate,5000,wall_high
+"Mesh a backward-facing step geometry, no bias required at the step (length 1800 mm).",bfs,1800,none
+Generate BFS mesh (4000 mm) and apply high resolution at the step.,bfs,4000,step_high
+Please mesh a flat plate; length unspecified. Priority: high density near the wall.,flat_plate,unspecified,wall_high
+I need a flat plate mesh about 4500 mm. High resolution at the step.,flat_plate,4500,step_high
+Need a BFS mesh of 600 mm; high resolution at the step regions preferred.,bfs,600,step_high
+I need a flat plate mesh about 5000 mm. No bias required.,flat_plate,5000,none
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 900 mm).",bfs,900,wall_high
+Create a basic flat plate mesh (400 mm) with high resolution at the step.,flat_plate,400,step_high
+"Please create a mesh for backward-facing step, no bias required; domain length 900 mm.",bfs,900,none
+"Please create a mesh for backward-facing step, high density near the wall; domain length 750 mm.",bfs,750,wall_high
+"Please create a mesh for backward-facing step, no bias required; domain length 3000 mm.",bfs,3000,none
+"Generate a mesh for a flat plate of 5000 mm, ensure no bias required.",flat_plate,5000,none
+"Mesh a backward-facing step geometry, no bias required at the step (length 5 mm).",bfs,5,none
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 500 mm).",bfs,500,wall_high
+Please mesh a flat plate; length 600 mm. Priority: high resolution at the step.,flat_plate,600,step_high
+"Requesting flat plate mesh: 200 mm long, no bias required.",flat_plate,200,none
+Need a BFS mesh of 300 mm; high density near the wall regions preferred.,bfs,300,wall_high
+I need a flat plate mesh about 2500 mm. High density near the wall.,flat_plate,2500,wall_high
+I need a flat plate mesh about 100 mm. No bias required.,flat_plate,100,none
+Please mesh a flat plate; length 2000 mm. Priority: high density near the wall.,flat_plate,2000,wall_high
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 2500 mm).",bfs,2500,wall_high
+"Generate a mesh for a flat plate of 2500 mm, ensure no bias required.",flat_plate,2500,none
+"Generate a mesh for a flat plate of 4500 mm, ensure no bias required.",flat_plate,4500,none
+Please mesh a flat plate; length 400 mm. Priority: high resolution at the step.,flat_plate,400,step_high
+Please mesh a flat plate; length 4000 mm. Priority: high resolution at the step.,flat_plate,4000,step_high
+Create a basic flat plate mesh (900 mm) with high density near the wall.,flat_plate,900,wall_high
+Generate BFS mesh (300 mm) and apply high resolution at the step.,bfs,300,step_high
+Generate BFS mesh (1200 mm) and apply no bias required.,bfs,1200,none
+"Generate a mesh for a flat plate of 1000 mm, ensure no bias required.",flat_plate,1000,none
+Please mesh a flat plate; length 900 mm. Priority: high density near the wall.,flat_plate,900,wall_high
+Please mesh a flat plate; length 2000 mm. Priority: high resolution at the step.,flat_plate,2000,step_high
+"BFS mesh requested: 25 mm long, no bias required.",bfs,25,none
+"Generate a mesh for a flat plate of 4500 mm, ensure high density near the wall.",flat_plate,4500,wall_high
+"BFS mesh requested: 75 mm long, high density near the wall.",bfs,75,wall_high
+Create a basic flat plate mesh (5 mm) with high resolution at the step.,flat_plate,5,step_high
+Create a basic flat plate mesh (500 mm) with high density near the wall.,flat_plate,500,wall_high
+"Generate a mesh for a flat plate of 1500 mm, ensure no bias required.",flat_plate,1500,none
+Generate BFS mesh (1200 mm) and apply high resolution at the step.,bfs,1200,step_high
+"Mesh a backward-facing step geometry, no bias required at the step (length 300 mm).",bfs,300,none
+"BFS mesh requested: 400 mm long, high resolution at the step.",bfs,400,step_high
+Need a BFS mesh of 4000 mm; high density near the wall regions preferred.,bfs,4000,wall_high
+Generate BFS mesh (1000 mm) and apply high density near the wall.,bfs,1000,wall_high
+Need a BFS mesh of 900 mm; high resolution at the step regions preferred.,bfs,900,step_high
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 400 mm).",bfs,400,step_high
+Need a BFS mesh of 5 mm; high resolution at the step regions preferred.,bfs,5,step_high
+Please mesh a flat plate; length 500 mm. Priority: no bias required.,flat_plate,500,none
+I need a flat plate mesh about 500 mm. High resolution at the step.,flat_plate,500,step_high
+Please mesh a flat plate; length 400 mm. Priority: high density near the wall.,flat_plate,400,wall_high
+Generate BFS mesh (100 mm) and apply high resolution at the step.,bfs,100,step_high
+Generate BFS mesh (150 mm) and apply high resolution at the step.,bfs,150,step_high
+Generate BFS mesh (600 mm) and apply high density near the wall.,bfs,600,wall_high
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 75 mm).",bfs,75,wall_high
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 1000 mm).",bfs,1000,step_high
+"Requesting flat plate mesh: 1500 mm long, no bias required.",flat_plate,1500,none
+Create a basic flat plate mesh (400 mm) with high density near the wall.,flat_plate,400,wall_high
+"Generate a mesh for a flat plate of 3500 mm, ensure high resolution at the step.",flat_plate,3500,step_high
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 200 mm).",bfs,200,wall_high
+"BFS mesh requested: 2500 mm long, no bias required.",bfs,2500,none
+Create a basic flat plate mesh (3000 mm) with high density near the wall.,flat_plate,3000,wall_high
+Generate BFS mesh (1500 mm) and apply no bias required.,bfs,1500,none
+"Requesting flat plate mesh: 1500 mm long, high density near the wall.",flat_plate,1500,wall_high
+I need a flat plate mesh about unspecified. High density near the wall.,flat_plate,unspecified,wall_high
+"Generate a mesh for a flat plate of 750 mm, ensure no bias required.",flat_plate,750,none
+Please mesh a flat plate; length 50 mm. Priority: high resolution at the step.,flat_plate,50,step_high
+Create a basic flat plate mesh (5 mm) with high density near the wall.,flat_plate,5,wall_high
+Please mesh a flat plate; length 5000 mm. Priority: no bias required.,flat_plate,5000,none
+Create a basic flat plate mesh (unspecified) with high resolution at the step.,flat_plate,unspecified,step_high
+Need a BFS mesh of 25 mm; no bias required regions preferred.,bfs,25,none
+"Requesting flat plate mesh: 900 mm long, no bias required.",flat_plate,900,none
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 1000 mm).",bfs,1000,wall_high
+Need a BFS mesh of 50 mm; high density near the wall regions preferred.,bfs,50,wall_high
+I need a flat plate mesh about 900 mm. No bias required.,flat_plate,900,none
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 100 mm.",bfs,100,step_high
+I need a flat plate mesh about 4000 mm. High density near the wall.,flat_plate,4000,wall_high
+Need a BFS mesh of 75 mm; no bias required regions preferred.,bfs,75,none
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 4000 mm.",bfs,4000,step_high
+Generate BFS mesh (3500 mm) and apply high density near the wall.,bfs,3500,wall_high
+"Please create a mesh for backward-facing step, high density near the wall; domain length 1800 mm.",bfs,1800,wall_high
+"Generate a mesh for a flat plate of 1200 mm, ensure high resolution at the step.",flat_plate,1200,step_high
+I need a flat plate mesh about 400 mm. High density near the wall.,flat_plate,400,wall_high
+"BFS mesh requested: 1200 mm long, no bias required.",bfs,1200,none
+"Requesting flat plate mesh: 600 mm long, high density near the wall.",flat_plate,600,wall_high
+Generate BFS mesh (750 mm) and apply no bias required.,bfs,750,none
+"Requesting flat plate mesh: unspecified long, no bias required.",flat_plate,unspecified,none
+"Mesh a backward-facing step geometry, no bias required at the step (length 2500 mm).",bfs,2500,none
+"Generate a mesh for a flat plate of 600 mm, ensure no bias required.",flat_plate,600,none
+"Requesting flat plate mesh: 300 mm long, no bias required.",flat_plate,300,none
+Generate BFS mesh (1800 mm) and apply no bias required.,bfs,1800,none
+"Requesting flat plate mesh: 1200 mm long, high density near the wall.",flat_plate,1200,wall_high
+"Generate a mesh for a flat plate of 1000 mm, ensure high resolution at the step.",flat_plate,1000,step_high
+Need a BFS mesh of 300 mm; no bias required regions preferred.,bfs,300,none
+"BFS mesh requested: 300 mm long, high density near the wall.",bfs,300,wall_high
+"Generate a mesh for a flat plate of 300 mm, ensure no bias required.",flat_plate,300,none
+"Generate a mesh for a flat plate of 900 mm, ensure no bias required.",flat_plate,900,none
+"Generate a mesh for a flat plate of 25 mm, ensure high density near the wall.",flat_plate,25,wall_high
+I need a flat plate mesh about 75 mm. High density near the wall.,flat_plate,75,wall_high
+Please mesh a flat plate; length 75 mm. Priority: high density near the wall.,flat_plate,75,wall_high
+Need a BFS mesh of 500 mm; no bias required regions preferred.,bfs,500,none
+Need a BFS mesh of 75 mm; high resolution at the step regions preferred.,bfs,75,step_high
+Please mesh a flat plate; length 1000 mm. Priority: high resolution at the step.,flat_plate,1000,step_high
+"BFS mesh requested: 100 mm long, high density near the wall.",bfs,100,wall_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 5 mm.",bfs,5,step_high
+"BFS mesh requested: 600 mm long, high density near the wall.",bfs,600,wall_high
+"BFS mesh requested: 400 mm long, high density near the wall.",bfs,400,wall_high
+I need a flat plate mesh about 4500 mm. No bias required.,flat_plate,4500,none
+"Generate a mesh for a flat plate of 1200 mm, ensure high density near the wall.",flat_plate,1200,wall_high
+Create a basic flat plate mesh (25 mm) with high density near the wall.,flat_plate,25,wall_high
+Generate BFS mesh (3000 mm) and apply high resolution at the step.,bfs,3000,step_high
+Need a BFS mesh of 1000 mm; high resolution at the step regions preferred.,bfs,1000,step_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 600 mm.",bfs,600,step_high
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 25 mm).",bfs,25,step_high
+I need a flat plate mesh about 900 mm. High density near the wall.,flat_plate,900,wall_high
+Generate BFS mesh (unspecified) and apply high resolution at the step.,bfs,unspecified,step_high
+Please mesh a flat plate; length 150 mm. Priority: high resolution at the step.,flat_plate,150,step_high
+"Please create a mesh for backward-facing step, high density near the wall; domain length 100 mm.",bfs,100,wall_high
+I need a flat plate mesh about 75 mm. High resolution at the step.,flat_plate,75,step_high
+Create a basic flat plate mesh (50 mm) with no bias required.,flat_plate,50,none
+"Please create a mesh for backward-facing step, no bias required; domain length 300 mm.",bfs,300,none
+Generate BFS mesh (5 mm) and apply high density near the wall.,bfs,5,wall_high
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 1500 mm).",bfs,1500,wall_high
+Need a BFS mesh of 150 mm; high resolution at the step regions preferred.,bfs,150,step_high
+Please mesh a flat plate; length 3000 mm. Priority: no bias required.,flat_plate,3000,none
+Generate BFS mesh (100 mm) and apply no bias required.,bfs,100,none
+Need a BFS mesh of 150 mm; high density near the wall regions preferred.,bfs,150,wall_high
+Create a basic flat plate mesh (400 mm) with no bias required.,flat_plate,400,none
+Please mesh a flat plate; length 200 mm. Priority: high resolution at the step.,flat_plate,200,step_high
+"Requesting flat plate mesh: 1200 mm long, high resolution at the step.",flat_plate,1200,step_high
+"Mesh a backward-facing step geometry, no bias required at the step (length 600 mm).",bfs,600,none
+Generate BFS mesh (25 mm) and apply high density near the wall.,bfs,25,wall_high
+"Requesting flat plate mesh: 1800 mm long, high density near the wall.",flat_plate,1800,wall_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length unspecified.",bfs,unspecified,step_high
+Please mesh a flat plate; length 4000 mm. Priority: high density near the wall.,flat_plate,4000,wall_high
+Need a BFS mesh of 1800 mm; no bias required regions preferred.,bfs,1800,none
+"BFS mesh requested: 750 mm long, no bias required.",bfs,750,none
+Generate BFS mesh (1500 mm) and apply high resolution at the step.,bfs,1500,step_high
+"Mesh a backward-facing step geometry, no bias required at the step (length unspecified).",bfs,unspecified,none
+Create a basic flat plate mesh (75 mm) with no bias required.,flat_plate,75,none
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 750 mm).",bfs,750,step_high
+Create a basic flat plate mesh (1200 mm) with high density near the wall.,flat_plate,1200,wall_high
+Need a BFS mesh of 150 mm; no bias required regions preferred.,bfs,150,none
+"Please create a mesh for backward-facing step, no bias required; domain length unspecified.",bfs,unspecified,none
+I need a flat plate mesh about 50 mm. No bias required.,flat_plate,50,none
+Create a basic flat plate mesh (750 mm) with no bias required.,flat_plate,750,none
+Please mesh a flat plate; length unspecified. Priority: high resolution at the step.,flat_plate,unspecified,step_high
+"BFS mesh requested: 1500 mm long, no bias required.",bfs,1500,none
+"Mesh a backward-facing step geometry, high density near the wall at the step (length 150 mm).",bfs,150,wall_high
+"Generate a mesh for a flat plate of 200 mm, ensure high density near the wall.",flat_plate,200,wall_high
+Please mesh a flat plate; length 200 mm. Priority: no bias required.,flat_plate,200,none
+"Please create a mesh for backward-facing step, no bias required; domain length 750 mm.",bfs,750,none
+"BFS mesh requested: 5000 mm long, high resolution at the step.",bfs,5000,step_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 3500 mm.",bfs,3500,step_high
+"Please create a mesh for backward-facing step, high density near the wall; domain length 500 mm.",bfs,500,wall_high
+"Please create a mesh for backward-facing step, high density near the wall; domain length 4000 mm.",bfs,4000,wall_high
+"Please create a mesh for backward-facing step, no bias required; domain length 1800 mm.",bfs,1800,none
+Create a basic flat plate mesh (1000 mm) with no bias required.,flat_plate,1000,none
+I need a flat plate mesh about 4500 mm. High density near the wall.,flat_plate,4500,wall_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 1200 mm.",bfs,1200,step_high
+"BFS mesh requested: 3500 mm long, high density near the wall.",bfs,3500,wall_high
+Need a BFS mesh of 900 mm; no bias required regions preferred.,bfs,900,none
+Need a BFS mesh of 50 mm; no bias required regions preferred.,bfs,50,none
+"BFS mesh requested: 600 mm long, no bias required.",bfs,600,none
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 50 mm).",bfs,50,step_high
+"Please create a mesh for backward-facing step, high resolution at the step; domain length 1500 mm.",bfs,1500,step_high
+"Please create a mesh for backward-facing step, high density near the wall; domain length 2500 mm.",bfs,2500,wall_high
+"Requesting flat plate mesh: 1000 mm long, high density near the wall.",flat_plate,1000,wall_high
+Please mesh a flat plate; length 25 mm. Priority: no bias required.,flat_plate,25,none
+Need a BFS mesh of 75 mm; high density near the wall regions preferred.,bfs,75,wall_high
+"Mesh a backward-facing step geometry, no bias required at the step (length 1200 mm).",bfs,1200,none
+Need a BFS mesh of 600 mm; high density near the wall regions preferred.,bfs,600,wall_high
+Generate BFS mesh (600 mm) and apply no bias required.,bfs,600,none
+Create a basic flat plate mesh (2000 mm) with high density near the wall.,flat_plate,2000,wall_high
+"Mesh a backward-facing step geometry, high resolution at the step at the step (length 4500 mm).",bfs,4500,step_high
+"Mesh a backward-facing step geometry, no bias required at the step (length 25 mm).",bfs,25,none
+"Please create a mesh for backward-facing step, no bias required; domain length 200 mm.",bfs,200,none
+"Requesting flat plate mesh: 150 mm long, no bias required.",flat_plate,150,none
+Please mesh a flat plate; length 1800 mm. Priority: high density near the wall.,flat_plate,1800,wall_high
+"BFS mesh requested: 25 mm long, high resolution at the step.",bfs,25,step_high
+Create a basic flat plate mesh (25 mm) with high resolution at the step.,flat_plate,25,step_high
+I need a flat plate mesh about 3000 mm. No bias required.,flat_plate,3000,none
+I need a flat plate mesh about unspecified. No bias required.,flat_plate,unspecified,none
+Please mesh a flat plate; length 600 mm. Priority: high density near the wall.,flat_plate,600,wall_high
+Need a BFS mesh of 3500 mm; high density near the wall regions preferred.,bfs,3500,wall_high
+Please mesh a flat plate; length 3000 mm. Priority: high resolution at the step.,flat_plate,3000,step_high
+Need a BFS mesh of 100 mm; high resolution at the step regions preferred.,bfs,100,step_high
+Generate BFS mesh (5000 mm) and apply no bias required.,bfs,5000,none
