@@ -6,6 +6,7 @@ An ML model trained on user prompts to generate simple mesh files in seconds for
 1. **Clone the repository**
    
 git clone https://github.com/sooryacr4-max/Mindmeshapp.git
+
 2. **install requirements**
 
 pip install -r requirements.txt
