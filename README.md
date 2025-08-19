@@ -3,6 +3,8 @@ An ML model trained on user prompts to generate simple mesh files in seconds for
 
 ##Getting Started
 
+Note:Please ensure to store all python and csv files related to this project in the same directory/folder in order for the model to work.
+
 1. **Clone the repository**
    
 git clone https://github.com/sooryacr4-max/Mindmeshapp.git
