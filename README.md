@@ -13,11 +13,17 @@ pip install -r requirements.txt
 
 3.**Generate the model, use the prompt dataset csv file to train the model**
 
+Download the sample dataset csv file with 250 prompts attached with this repository
+
 python train_classifier.py
 
 4. **Run the streamlit app**
 
-streamlit run mind_meshapp.py
+run the mind_meshapp.py code and then type
+
+"streamlit run mind_meshapp.py"
+
+
 
 ## Files
 
